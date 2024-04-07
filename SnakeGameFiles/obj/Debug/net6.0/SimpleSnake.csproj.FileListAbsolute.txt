@@ -1,0 +1,14 @@
+C:\Users\Denis\source\repos\SnakeGame\SimpleSnake\bin\Debug\net6.0\SimpleSnake.exe
+C:\Users\Denis\source\repos\SnakeGame\SimpleSnake\bin\Debug\net6.0\SimpleSnake.deps.json
+C:\Users\Denis\source\repos\SnakeGame\SimpleSnake\bin\Debug\net6.0\SimpleSnake.runtimeconfig.json
+C:\Users\Denis\source\repos\SnakeGame\SimpleSnake\bin\Debug\net6.0\SimpleSnake.dll
+C:\Users\Denis\source\repos\SnakeGame\SimpleSnake\bin\Debug\net6.0\SimpleSnake.pdb
+C:\Users\Denis\source\repos\SnakeGame\SimpleSnake\obj\Debug\net6.0\SimpleSnake.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Denis\source\repos\SnakeGame\SimpleSnake\obj\Debug\net6.0\SimpleSnake.AssemblyInfoInputs.cache
+C:\Users\Denis\source\repos\SnakeGame\SimpleSnake\obj\Debug\net6.0\SimpleSnake.AssemblyInfo.cs
+C:\Users\Denis\source\repos\SnakeGame\SimpleSnake\obj\Debug\net6.0\SimpleSnake.csproj.CoreCompileInputs.cache
+C:\Users\Denis\source\repos\SnakeGame\SimpleSnake\obj\Debug\net6.0\SimpleSnake.dll
+C:\Users\Denis\source\repos\SnakeGame\SimpleSnake\obj\Debug\net6.0\refint\SimpleSnake.dll
+C:\Users\Denis\source\repos\SnakeGame\SimpleSnake\obj\Debug\net6.0\SimpleSnake.pdb
+C:\Users\Denis\source\repos\SnakeGame\SimpleSnake\obj\Debug\net6.0\SimpleSnake.genruntimeconfig.cache
+C:\Users\Denis\source\repos\SnakeGame\SimpleSnake\obj\Debug\net6.0\ref\SimpleSnake.dll
