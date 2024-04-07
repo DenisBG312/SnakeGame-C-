@@ -16,3 +16,4 @@ Welcome to the Snake Game for Command Prompt (CMD) written in C#! This classic a
 - **.NET Core:** .NET Core framework is used for building and running the application.
 - **Windows Command Prompt:** The game runs within the Windows Command Prompt environment.
 
+## Thank you for using the Snake Game for Command Prompt (CMD) in C#! I hope you enjoy playing it as much as I enjoyed developing it. Happy gaming! 🐍🎮
